@@ -10,4 +10,5 @@
 		name:'App',
 		components:{Count},
 	}
+	
 </script>
